@@ -1,6 +1,6 @@
 
 {
-  "name": "metaverse-vite",
+  "name": "ai-tutor",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -12,21 +12,5 @@
   },
   "devDependencies": {
     "vite": "^5.0.0"
-  }
-}
-{
-  "name": "ai-tutor",
-  "version": "1.0.0",
-  "main": "mind.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "p5": "^1.11.3",
-    "three": "^0.174.0"
   }
 }
